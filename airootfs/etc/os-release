@@ -1,0 +1,10 @@
+NAME="Vlinux"
+PRETTY_NAME="Vlinux Live ISO"
+ID=Vlinux
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://github.com/sylo3285/"
+DOCUMENTATION_URL="https://github.com/sylo3285/"
+SUPPORT_URL="https://github.com/sylo3285/"
+BUG_REPORT_URL="https://github.com/sylo3285/"
+LOGO=Vlinux
