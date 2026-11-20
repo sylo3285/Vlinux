@@ -126,6 +126,17 @@ xfsprogs
 xl2tpd
 zsh
 
+# Base graphics drivers for all platforms
+mesa
+vulkan-radeon
+vulkan-intel
+vulkan-nouveau
+
+libva-mesa-driver
+intel-media-driver
+
+vulkan-icd-loader
+
 #Custom packages
 wayland
 xorg-server-xwayland
@@ -140,16 +151,12 @@ xdg-utils
 polkit
 hyprpolkitagent
 
-sddm
 hyprland
 hyprpaper
 hyprlauncher
 waybar
 
-noto-fonts
-noto-fonts-cjk
 noto-fonts-emoji
-otf-font-awesome
 
 pavucontrol
 dolphin

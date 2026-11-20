@@ -1,7 +1,6 @@
 root:x:0:
-wheel:x:10:neurarch
-video:x:39:neurarch
-audio:x:29:neurarch
-input:x:97:neurarch
+wheel:x:10:
+video:x:39:
+audio:x:29:
+input:x:97:
 users:x:100:
-neurarch:x:1000:
